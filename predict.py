@@ -5,7 +5,7 @@ from tensorflow.keras.preprocessing import image
 import cv2  # Import OpenCV
 
 # Load the saved model
-model = tf.keras.models.load_model('pretrain_model.keras')
+model = tf.keras.models.load_model('trained_model.keras')
 
 # Function to preprocess a single image for prediction
 def preprocess_image(img_path, target_size):
