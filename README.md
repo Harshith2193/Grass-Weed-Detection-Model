@@ -11,3 +11,13 @@ Key Features:
 Output: Saves the trained model in .keras format.
 
 
+2. *predict.py*: Prediction and Visualization
+  Objective: Predict the class of a new image and visualize activation maps.
+Key Features:
+  Prediction: Accepts an image path, preprocesses the image, and predicts using the saved model.
+  Grad-CAM Heatmap: Generates a heatmap to interpret the model's focus areas on the image, using gradient-based techniques.
+  Visualization: Creates superimposed images for better insights.
+
+
+
+
