@@ -102,5 +102,5 @@ history = model.fit(
 )
 
 # Save the model in native Keras format
-model.save('pretrain_model.keras')
+model.save('trained_model.keras')
 
