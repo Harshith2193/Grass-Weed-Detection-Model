@@ -66,7 +66,7 @@ This repository contains code and resources for detecting and classifying grass 
 ![image](https://github.com/user-attachments/assets/88a55410-df47-41bb-b6e1-b66015c7dc80)
 
 ### Image detected as **Not Weed** by the Model
-![image](https://github.com/user-attachments/assets/7bb77cd8-27f5-4fd6-9698-66158814e5fb)
+![image](https://github.com/user-attachments/assets/21c5f449-e89e-477d-b2e4-f24d0751003e)
 
 ### Image detected as **Weed** by the Model
 ![image](https://github.com/user-attachments/assets/70eb7583-13ce-4f78-94ed-c9aedb63fced)
